@@ -6,19 +6,16 @@
     font-family: var(--fonte-secundaria);
     font-size: var(--fonte-extra-grande);
     color: var(--cor-branca);
-    border: 2px solid var(--cor-branca);
-    border-radius: 50%;
     width: 65px;
     height: 65px;
     line-height: 55px;
     text-align: center;
-    text-decoration: underline;
+    letter-spacing: 2px;
     transition: 0.2s;
 }
 
 .header a:hover .logo {
     color: var(--cor-primaria);
-    border: 2px solid var(--cor-primaria);
 }
 
 .header nav ul {
@@ -39,7 +36,7 @@
 
 .header nav ul li a:hover{
     background-color: var(--cor-primaria);;
-    color: var(--cor-branca);
+    color: var(--cor-menu-nav);
 }
 
 .header .menu{
@@ -129,7 +126,7 @@
 
    .header nav ul {
         display: none;        
-        background-color: var(--cor-fundo-escuro);         
+        background-color: var(--cor-fundo-azul-transparente);         
         padding: 20px;       
     }
     

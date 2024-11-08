@@ -9,7 +9,7 @@ html {
   }
   
   body {
-    background-color: var(--cor-fundo-cinza-escuro);
+    background-color: var(--cor-fundo-azul-escuro);
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
   }
@@ -69,6 +69,10 @@ html {
     flex: 0 0 100%;
     max-width: 100%;
     padding: 60px 0;
+  }
+
+  .section-title span {
+    color: var(--cor-primaria);
   }
   
   .section-title h2 {
