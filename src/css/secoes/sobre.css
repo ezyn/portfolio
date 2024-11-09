@@ -23,6 +23,17 @@
 
 .sobre-mim .informacoes-sobre-mim .botoes {
     margin-top: 50px;
+    color: var(--cor-menu-nav);
+}
+
+.sobre-mim .informacoes-sobre-mim .botoes .botao {
+    color: var(--cor-menu-nav);
+    font-weight: 400;
+}
+
+.sobre-mim .informacoes-sobre-mim .botoes .botao:hover {
+    color: var(--cor-branca);
+    font-weight: 400;
 }
 
 .sobre-mim .informacoes-sobre-mim p {

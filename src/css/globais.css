@@ -14,6 +14,10 @@ html {
     font-size: var(--fonte-normal);
   }
 
+  span {
+    color: var(--cor-primaria);
+  }
+
   .container {
     max-width: 1140px;
     margin: auto;
