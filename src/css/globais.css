@@ -70,8 +70,7 @@ html {
     line-height: 40px;
     text-align: center;
     color: var(--cor-branca);
-    margin: 0 4px;
-    border-radius: 50%;
+    margin: 0 5px;
     transition: all 0.3s ease;
   }
 
