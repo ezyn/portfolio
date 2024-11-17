@@ -31,6 +31,6 @@ O portfólio foi projetado para ser responsivo, ou seja, ele se adapta aos difer
 
 ## Conclusão
 
-Projeto ainda em construção, criado para testar minhas habilidades e será aprimorado conforme meus conhecimentos forem sendo aprimorados com novas tecnologias, a parte dos projetos ainda falta mas será em breve inserido. 
+Projeto em 1ª fase concluído, criado para testar minhas habilidades e será aprimorado conforme meus conhecimentos forem sendo aprimorados com novas tecnologias,. 
 
 Quero agradeçer também a toda equipe do <span style="color: rgb(125, 25, 218);">DevQuest Dev em Dobro</span> pelas instruções nessa minha jornada pela transição de carreira para a programação !
